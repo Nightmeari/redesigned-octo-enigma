@@ -1,0 +1,1 @@
+print("CRUX SACRA SIT MIHI LUX")
